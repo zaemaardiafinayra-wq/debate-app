@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "OODA Debate",
+    "slug": "ooda-debate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#13110F"
+    },
+    "android": {
+      "package": "com.fikri.oodadebate",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#13110F"
+      }
+    },
+    "extra": {
+      "backendUrl": "https://YOUR-BACKEND.vercel.app/api/debate"
+    }
+  }
+}

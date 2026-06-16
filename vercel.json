@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/debate.js": {
+      "maxDuration": 15
+    }
+  }
+}
